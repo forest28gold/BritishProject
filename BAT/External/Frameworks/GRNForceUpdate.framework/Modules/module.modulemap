@@ -1,0 +1,6 @@
+framework module GRNForceUpdate {
+  umbrella header "GRNForceUpdate.h"
+
+  export *
+  module * { export * }
+}

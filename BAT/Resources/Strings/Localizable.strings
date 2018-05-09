@@ -1,0 +1,124 @@
+/* 
+  Localizable.strings
+
+  Created by Benjamin Bourasseau on 13/06/2016.
+  Copyright © 2016 Guaraná Technologies Inc. All rights reserved.
+*/
+
+// GENERIC KEYS
+
+"generic_alert" = "Alert";
+"generic_cancel" = "Cancel";
+"generic_ok" = "Ok";
+"generic_confirm" = "Confirm";
+"generic_submit" = "Submit";
+"generic_appstore" = "App Store Url";
+"generic_wait" = "Please wait....";
+
+"splash_setup_error" = "Server unreachable. Please try again.";
+"splash_setup_retry" = "Try again";
+
+"connection_issue" = "Connection issues";
+"login_email_error" = "Please input email.";
+"login_email_format_error" = "Email format is invalid.";
+"login_password_error" = "Please input password.";
+"login_failed" = "This email address has not been verified yet. Go back to \"Create a new account\"";
+"login_removed" = "This account has been removed. Please contact your IT department";
+"login_invalid" = "Email address or password is invalid.";
+
+"signup_password_length_error" = "Password can not be less than 6 characters.";
+"signup_failed" = "This email address can not be used to connect. Please contact your IT department.";
+"signup_already" = "This email address is already linked to an existing account. Go back to \"Log in\"";
+"signup_password_invalid" = "Password is invalid.";
+
+"verify_sent_code" = "We just sent a verification email:";
+"verify_error" = "Email address not verified";
+
+"reset_password_sent" = "Recovery email sent";
+"reset_password_failed" = "Send recovery email is failed. Please try again.";
+
+"edit_profile_save" = "Save changes";
+"edit_profile_start" = "Start using the app";
+"edit_profile_department" = "Department";
+"edit_profile_choose_from" = "Choose from...";
+"edit_profile_camera" = "Camera";
+"edit_profile_photo_library" = "Photo Library";
+"edit_profile_photo_error" = "Please add profile image.";
+"edit_profile_name_error" = "Please input name.";
+"edit_profile_department_error" = "Please input department.";
+"edit_profile_phone_error" = "Please input phone number.";
+"edit_profile_cell_phone_error" = "Please input cell phone number.";
+"edit_failed" = "Save is failed. Please try again.";
+"edit_profile_and" = " and ";
+
+"tab_home" = "Home";
+"tab_classifieds" = "Classifieds";
+"tab_notifications" = "Notifications";
+"tab_events" = "Events";
+"tab_directory" = "Directory";
+
+"home_terms_use" = "Terms of use";
+"home_privacy_policy" = "Privacy Policy";
+"home_see_profile" = "See my profile";
+"home_feedback" = "Feedback";
+"home_bat_feedback" = "BAT feedback";
+"home_logout" = "Logout";
+"home_comments" = "comments";
+"home_comment" = "comment";
+"home_confirm_option" = "Confirm option";
+"home_alert_vote_option" = "Are you sure you want to vote for this option?";
+
+"post_description" = "Post description. ";
+"poll_description" = "Poll description. ";
+"post_comment_submitted" = "Comment submitted";
+"post_comment_failed" = "Comment is failed. Please try again.";
+"post_at" = "at";
+
+"description" = "Description. ";
+"edit_classified" = "Edit classified";
+"delete_classified" = "Delete classified";
+"edit_description" = "Description";
+"classified_description" = "Classified description. ";
+"create_classified" = "Create classified";
+"classified_name_error" = "Please input name.";
+"classified_price_error" = "Please input price.";
+"classified_description_error" = "Please input description.";
+"classified_photo_error" = "Please add photo.";
+"classified_save_failed" = "Classified data post is failed. Please try again.";
+"classified_camera" = "Camera";
+"classified_library" = "Library";
+"classified_edit_photo" = "Edit photo";
+"classified_remove_photo" = "Remove photo";
+"classified_hour" = "/hour";
+"classified_contact" = "Contact";
+
+"notification_comment_post" = "Your comment on the post";
+"notification_declined" = "has been declined.";
+"notification_create_post" = "created a new post";
+"notification_comment_poll" = "Your comment on the poll";
+"notification_create_poll" = "created a new poll";
+"notification_event" = "The event";
+"notification_scheduled" = "has been scheduled.";
+"notification_live" = "is live!";
+"notification_message" = "New message:";
+
+"post_removed" = "This post is not available anymore.";
+"poll_removed" = "This poll is not available anymore.";
+"event_removed" = "This event is not available anymore.";
+"message_removed" = "This message is not available anymore.";
+
+"message_description" = "Message description.";
+
+"event_live_now" = "LIVE NOW";
+"event_next" = "NEXT EVENTS";
+"event_at" = ", at ";
+
+"event_admin" = "Admin team: ";
+"message_anonymous" = "Anonymous at";
+"message_you_anonymous" = "You anonymously at";
+"message_you" = "You at";
+"message_failed" = "Comment is failed. Please try again.";
+"message_submitted" = "Comment submitted";
+
+"comment_your_name" = "comment on your name";
+"comment_anonymous" = "comment as anonymous";

@@ -1,0 +1,6 @@
+framework module Pods_BAT {
+  umbrella header "Pods-BAT-umbrella.h"
+
+  export *
+  module * { export * }
+}

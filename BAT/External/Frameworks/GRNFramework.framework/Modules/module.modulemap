@@ -1,0 +1,11 @@
+framework module GRNFramework {
+  umbrella header "GRNFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module GRNFramework.Swift {
+    header "GRNFramework-Swift.h"
+    requires objc
+}
